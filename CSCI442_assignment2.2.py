@@ -1,4 +1,3 @@
-#Marielle Korringa, CSCI 442, 15 Feb. 2019
 #Part two of assignment 2
 
 import numpy as np
